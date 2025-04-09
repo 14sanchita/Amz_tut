@@ -4,6 +4,3 @@ const dob = '01/01/2004'
 function printname(){
     console.log('my name is '+name1)
 }
-function ageAbove18(){
-    return age>=18
-}

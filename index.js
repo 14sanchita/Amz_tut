@@ -9,4 +9,5 @@ function ageAbove18(){
 }
 function newfeature(){
     console.log('this is a new feature')
+    console.log('this is a new feature A')
 }

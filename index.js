@@ -7,3 +7,6 @@ function printname(){
 function ageAbove18(){
     return age>=18
 }
+function newfeature(){
+    console.log('this is a new feature')
+}
